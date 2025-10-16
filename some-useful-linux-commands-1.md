@@ -1,0 +1,4 @@
+- whoami (to check which user you are currently)
+- id (to check the details of user)
+- /etc/*release* (to check which operating system is in use)
+- curl "http://something.com" -o downloaded-website.html (to download something and save it in a file)
